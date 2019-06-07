@@ -13,7 +13,7 @@ public class MemoriseMe{
 
         int queries = in.nextInt();
 
-        for(i = 0; i<queries; i++){
+        for(int i = 0; i<queries; i++){
             int t = in.nextInt();
             if(array[t] !=0){
                 System.out.println(array[t]);
