@@ -1,3 +1,9 @@
+/*
+    Partially accepted.
+    Learn about MO's algorithm.
+*/
+
+
 import java.util.*;
 
 public class SaveMrinal{
