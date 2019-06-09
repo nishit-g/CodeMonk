@@ -1,3 +1,9 @@
+/*
+    Partially accepted.
+    Solved using only arrays.
+    Need to reduce time complexity.
+*/  
+
 import java.util.*;
 
 public class TheAmazingRace{
